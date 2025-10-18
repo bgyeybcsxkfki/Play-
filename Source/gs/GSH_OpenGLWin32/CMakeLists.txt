@@ -24,3 +24,5 @@ add_library(gsh_opengl_win32 STATIC
 )
 
 target_link_libraries(gsh_opengl_win32 ${gsh_opengl_win32_PROJECT_LIBS})
+
+# Update: 2025-10-18
